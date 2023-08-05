@@ -1,0 +1,7 @@
+services:
+  noder:
+    image: node:devops
+    ports:
+      - 3005:3005
+
+
